@@ -1,0 +1,1 @@
+export const server_Url="http://localhost:3000"
