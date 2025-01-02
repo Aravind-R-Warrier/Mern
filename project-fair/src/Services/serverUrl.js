@@ -1,1 +1,1 @@
-export const server_Url="http://localhost:3000"
+export const server_Url="https://mern-backend-royl.onrender.com"
